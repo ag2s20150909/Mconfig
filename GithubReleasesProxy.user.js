@@ -5,7 +5,7 @@
 // @description  利用国内的cdn加速下载github上的发布文件。
 // @author       Ag2S20150909
 // @match        https://github.com/*
-// @supportURL   https://github.com/ag2s20150909/Mconfing8/issues
+// @supportURL   https://github.com/ag2s20150909/Mconfing/issues
 // @grant        none
 // ==/UserScript==
 
