@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Github代理下载
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ag2s20150909/Mconfing/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  利用国内的cdn加速下载github上的发布文件。
+// @author       Ag2S20150909
 // @match        https://github.com/*
+// @supportURL   https://github.com/ag2s20150909/Mconfing8/issues
 // @grant        none
 // ==/UserScript==
 
