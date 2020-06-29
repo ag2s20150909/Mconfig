@@ -1,0 +1,1 @@
+youtube.com##:-abp-has(> div > a[href^="/channel/UCQXVS1wnYdY8JREC_5W3fVw"])
