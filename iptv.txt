@@ -128,6 +128,9 @@ NewTV超级电视剧[1080P][8M],http://otttv.bj.chinamobile.com/TVOD/88888888/22
 NewTV超级综艺[1080P],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226231/index.m3u8
 NewTV超级综艺[1080P][8M],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226370/index.m3u8
 NewTV金牌综艺[1080P],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/index.m3u8
+CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$8M1080
+CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$8M1080
+CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$8M1080
 
 NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8$黑龙江移动4M1080
 NewTV四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8$黑龙江移动4M1080
