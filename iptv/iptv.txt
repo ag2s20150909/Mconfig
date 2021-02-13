@@ -1,4 +1,4 @@
-央视,#genere#
+央视,#genre#
 CCTV1,http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
@@ -259,7 +259,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-4K,#genere#
+4K,#genre#
 纯享4K,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=7D4003FF004735100000288CB80A1C30
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
@@ -411,7 +411,7 @@ SiTV欢笑剧场4K,http://39.134.39.26/PLTV/88888888/224/3221226318/index.m3u8
 4K花园2,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园3,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 
-卫视,#genere#
+卫视,#genre#
 中国教育1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 中国教育1,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8
 中国教育1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
@@ -3023,7 +3023,7 @@ CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m
 云上电影院,http://wx.tt1008.top/mg.php?id=625703337
 云上电影院,http://jialvjiancai6857.com/jyqwan/proxy.php?vid=migu&id=625703337
 
-熊猫直播,#genere#
+熊猫直播,#genre#
 iPanda成都,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226349/index.m3u8
 iPanda成都,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240263_1/playlist.m3u8?CONTENTID=00000110240263_1
 iPanda成都,http://111.20.105.60:6060/yinhe/2/ch00000090990000001679/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
