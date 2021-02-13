@@ -103,6 +103,30 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 
 
 数字频道,#genre#
+CCTV高尔夫网球 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV高尔夫网球 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV风云音乐 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV风云音乐 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV风云足球 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV风云足球 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV风云剧场 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV风云剧场 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV第一剧场 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV第一剧场 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV电视指南 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV电视指南 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV文化精品 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV怀旧剧场 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV怀旧剧场 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV女性时尚 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV女性时尚 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV央视文化精品 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV央视台球 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV央视台球 4M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV兵器科技 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV兵器科技 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls$1080P3M
+CCTV世界地理 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls$1080P8M
+CCTV世界地理 3M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls$1080P3M
 NewTV中国功夫[1080P],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/index.m3u8
 NewTV军事评论[1080P],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/index.m3u8
 NewTV军旅剧场[1080P],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/index.m3u8
