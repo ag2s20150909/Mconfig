@@ -100,6 +100,8 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8$
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$黑龙江移动576P
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$黑龙江移动576P
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$黑龙江移动576P
+新华社中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+新华社英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 
 数字频道,#genre#
