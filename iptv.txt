@@ -52,6 +52,7 @@ CCTV15,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226444/index.m3u8$5
 CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8$1080P8M
 CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/index.m3u8$1080P4M
 CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226442/index.m3u8$576P
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8$官网720P
 CGTN,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226404/index.m3u8$576P
 CGTN,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226443/index.m3u8$576P
 CGTN纪录,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226403/index.m3u8$576P
