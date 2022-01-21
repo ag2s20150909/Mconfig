@@ -1,6 +1,0 @@
-广州南国都市,http://120.221.226.226/aplay.gztv.com/sec/shenghuos.m3u8$广视网官网ip版1080
-广州影视,http://120.221.226.226/aplay.gztv.com/sec/yingshi.m3u8$广视网官网ip版1080
-广州新闻,http://120.221.226.226/aplay.gztv.com/sec/xinwen.m3u8$广视网官网ip版720
-广州法治,http://120.221.226.226/aplay.gztv.com/sec/fazhi.m3u8$广视网官网ip版720
-广州竞赛,http://120.221.226.226/aplay.gztv.com/sec/jingsai.m3u8$广视网官网ip版720
-广州综合,http://120.221.226.226/aplay.gztv.com/sec/zhonghe.m3u8$广视网官网ip版720
