@@ -1,2 +1,3 @@
 youtube.com##:-abp-has(> div > a[href^="/channel/UCQXVS1wnYdY8JREC_5W3fVw"])
 youtube.com##:-abp-has(> div > a[href^="/channel/UCK_xrWS0o4f9d32ILDuNwhw"])
+youtubw.com##:-abp-has(> div > a[href^="@NTDCHINESE"])
