@@ -1,5 +1,24 @@
 央视,#genre#
 
+CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226113/3.m3u8
+CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226691/3.m3u8
+CCTV1,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226731/3.m3u8
+CCTV2,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226567/3.m3u8
+CCTV3,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226632/3.m3u8
+CCTV4,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/3.m3u8
+CCTV5,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226640/3.m3u8
+CCTV5+,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/3.m3u8
+CCTV6,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226643/3.m3u8
+CCTV7,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226687/3.m3u8
+CCTV8,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226635/3.m3u8
+CCTV9,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226571/3.m3u8
+CCTV10,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226680/3.m3u8
+CCTV11,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226684/3.m3u8
+CCTV12,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226560/3.m3u8
+CCTV13,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226688/3.m3u8
+CCTV14,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226685/3.m3u8
+CCTV15,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226677/3.m3u8
+CCTV17,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/3.m3u8
 
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动cdn4M1080
@@ -26,6 +45,19 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$黑龙江移动cdn4M1080
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$黑龙江移动cdn4M1080
 
+CCTV4K,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226737/3.m3u8
+CCTV4K,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/3.m3u8
+
+
+CGTN,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226637/3.m3u8
+CGTN纪录,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226667/3.m3u8
+CGTN阿语,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226648/3.m3u8
+CGTN俄语,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226658/3.m3u8
+CGTN法语,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226645/3.m3u8
+CGTN西语,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226638/3.m3u8
+
+
+
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8$黑龙江移动cdn720
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$黑龙江移动cdn720
@@ -41,6 +73,48 @@ CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m
 
 
 卫视,#genre#
+
+
+安徽卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226696/3.m3u8
+北京卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226698/3.m3u8
+重庆卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226243/3.m3u8
+东方卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226674/3.m3u8
+东南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226692/3.m3u8
+甘肃卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/3.m3u8
+广东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226700/3.m3u8
+广西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226570/3.m3u8
+贵州卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226245/3.m3u8
+海南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226246/3.m3u8
+河北卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226247/3.m3u8
+河南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226697/3.m3u8
+黑龙江卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/3.m3u8
+湖南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226117/3.m3u8
+吉林卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226574/3.m3u8
+吉林延边卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226732/3.m3u8
+江苏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226682/3.m3u8
+江西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226702/3.m3u8
+康巴藏语卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226725/3.m3u8
+辽宁卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226718/3.m3u8
+内蒙卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226166/3.m3u8
+宁夏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226173/3.m3u8
+青海卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226164/3.m3u8
+三沙卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226663/3.m3u8
+厦门卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226726/3.m3u8
+山东教育卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226652/3.m3u8
+山东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226695/3.m3u8
+山西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226174/3.m3u8
+陕西卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226708/3.m3u8
+深圳卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226703/3.m3u8
+四川卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226252/3.m3u8
+天津卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226693/3.m3u8
+西藏卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226169/3.m3u8
+新疆兵团卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226171/3.m3u8
+新疆卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226168/3.m3u8
+云南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226566/3.m3u8
+浙江卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226701/3.m3u8
+
+
+
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$黑龙江移动cdn8M1080
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$黑龙江移动cdn4M1080
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$黑龙江移动cdn8M1080
@@ -83,6 +157,8 @@ CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m
 中国教育1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$黑龙江移动cdn576
 中国教育2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$黑龙江移动cdn4M576
 中国教育4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$黑龙江移动cdn4M576
+
+
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8$黑龙江移动cdn720
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8$黑龙江移动cdn576
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8$黑龙江移动cdn576
@@ -138,6 +214,55 @@ CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m
 
 
 数字频道,#genre#
+CHC影迷电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226681/3.m3u8
+CHC家庭影院,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226676/3.m3u8
+CHC动作电影,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226673/3.m3u8
+
+晴彩青少,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226761/3.m3u8
+睛彩篮球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226582/3.m3u8
+睛彩竞技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226580/3.m3u8
+睛彩广场舞,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226793/3.m3u8
+
+CCTV兵器科技,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226723/3.m3u8
+CCTV第一剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226736/3.m3u8
+CCTV电视指南,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226717/3.m3u8
+CCTV风云音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226713/3.m3u8
+CCTV风云足球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226719/3.m3u8
+CCTV高尔夫网球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226742/3.m3u8
+CCTV怀旧剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226710/3.m3u8
+CCTV老故事,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226739/3.m3u8
+CCTV女性时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226730/3.m3u8
+CCTV汽摩,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226733/3.m3u8
+CCTV世界地理,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226720/3.m3u8
+CCTV台球,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226716/3.m3u8
+
+国学频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226629/3.m3u8
+游戏风云,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226768/3.m3u8
+四海钓鱼,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226662/3.m3u8
+书画频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226665/3.m3u8
+生活时尚,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226764/3.m3u8
+法制天下,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226770/3.m3u8
+财富天下,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226651/3.m3u8
+东方财经,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226799/3.m3u8
+都市剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226762/3.m3u8
+动漫秀场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226767/3.m3u8
+金色学堂,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226796/3.m3u8
+乐游,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226765/3.m3u8
+环球奇观,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226634/3.m3u8
+欢笑剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226729/3.m3u8
+欢笑剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226722/3.m3u8
+
+#湖南
+快乐垂钓,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226671/3.m3u8
+金鹰纪实,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226666/3.m3u8
+茶频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226679/3.m3u8
+先锋乒羽,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226668/3.m3u8
+
+#河南
+武术世界,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226707/3.m3u8
+文物宝库,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226714/3.m3u8
+梨园频道,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226727/3.m3u8
+
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$黑龙江移动cdn4M1080
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$黑龙江移动cdn4M1080
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动cdn4M1080
@@ -175,6 +300,15 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 
 
 地方频道,#genre#
+湖北公共·新闻,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/3.m3u8
+湖北教育,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/3.m3u8
+湖北经视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/3.m3u8
+湖北垄上,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/3.m3u8
+湖北生活,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/3.m3u8
+湖北卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/3.m3u8
+湖北影视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/3.m3u8
+湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/3.m3u8
+
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8$黑龙江移动cdn8M1080
 黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8$黑龙江移动cdn8M1080
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$黑龙江移动cdn8M1080
@@ -214,6 +348,13 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 
 
 儿童,#genre#
+
+北京卡酷少儿,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/3.m3u8
+上海哈哈炫动,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226758/3.m3u8
+湖南金鹰卡通,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226715/3.m3u8
+广东嘉佳卡通,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226790/3.m3u8
+辽宁新动漫,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226670/3.m3u8
+
 上海哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$黑龙江移动cdn576
 北京卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$黑龙江移动cdn576
 江苏优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$黑龙江移动cdn576
