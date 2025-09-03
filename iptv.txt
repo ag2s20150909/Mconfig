@@ -1,5 +1,5 @@
 CCTV1,http://blog.cqshushu.com/tv.php?id=cctv1
-CCTV1,http://blog.cqshushu.com/tv.php?id=cctv6
-CCTV1,http://blog.cqshushu.com/tv.php?id=cctv13
-CCTV1,http://blog.cqshushu.com/tv.php?id=cctv4k
+CCTV6,http://blog.cqshushu.com/tv.php?id=cctv6
+CCTV13,http://blog.cqshushu.com/tv.php?id=cctv13
+CCTV4k,http://blog.cqshushu.com/tv.php?id=cctv4k
 
